@@ -36,6 +36,9 @@
 .rock, .paper, .scissor{
     height:80%;
     width:48%;
+}
+img{
+    height: 100%;
     border-radius: 50%;
     background-size:cover;
 }
